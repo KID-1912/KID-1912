@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <samp>
     <a href="https://kid-1912.github.io/">blog</a> .
   </samp>
