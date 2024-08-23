@@ -1,7 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://kid-1912.github.io/">blog</a> .
+  </samp>
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KID-1912&layout=compact&show_icons=true&line_height=27&count_private=true" alt="My github stats" />
+
+</a>  
+
 
 <!--
-**KID-1912/KID-1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
