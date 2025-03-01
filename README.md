@@ -1,9 +1,12 @@
 <p>
   <samp>
+    <span>wx: xiyitao21</span>
+  </samp>
+  <samp>
     <a href="https://kid-1912.github.io/">blog</a> .
   </samp>
   <samp>
-    <span>wx: xiyitao21</span> .
+    <a href="https://juejin.cn/user/3008684729329512/posts">juejin</a> .
   </samp>
 </p>
 
