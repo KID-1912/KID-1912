@@ -3,7 +3,7 @@
     <a href="https://kid-1912.github.io/">blog</a> .
   </samp>
   <samp>
-    <a href="/">xiyitao21</a> .
+    <a href="/">wx: xiyitao21</a> .
   </samp>
 </p>
 
