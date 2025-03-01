@@ -1,6 +1,6 @@
 <p>
   <samp>
-    <span>wx: xiyitao21</span>
+    <a>wx: xiyitao21</a> 
   </samp>
   <samp>
     <a href="https://kid-1912.github.io/">blog</a> .
